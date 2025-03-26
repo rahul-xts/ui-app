@@ -29,7 +29,7 @@
                     </div>
                 </form>
                 <div class="mt-3 text-center">
-                    <small>Don't have an account? <a href="#">Sign up</a></small>
+                    <small>Don't have an account? <a href="sign-up.php">Sign up</a></small>
                 </div>
             </div>
         </div>
