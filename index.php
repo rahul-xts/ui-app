@@ -43,7 +43,7 @@
 </head>
 <body>
   <div class="login-container">
-    <h2>Login</h2>
+    <h2>XTS Login</h2>
     <form>
       <div class="mb-3">
         <label for="email" class="form-label">Email address</label>
